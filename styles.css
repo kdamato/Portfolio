@@ -1,0 +1,22 @@
+head{
+    img{
+        border-radius: 10px;
+        border:5px groove grey;
+    }
+}
+
+
+body {
+    background-color: bisque;
+}
+
+.text {
+    border: 10px;
+    background-color: bisque;
+    color: black;
+}
+
+img{
+    border-radius: 10px;
+    border:5px groove rgb(170, 170, 170);
+}
